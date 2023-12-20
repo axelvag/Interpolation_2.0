@@ -1,3 +1,5 @@
+![image](image/LIFAP1.jpg)
+
 # GrAPiC 
 
 ## Starting
