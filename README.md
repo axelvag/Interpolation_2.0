@@ -4,6 +4,13 @@ Evolution of my [Interpolation](https://github.com/axelvag/Interpolation) projec
 
 ![image](image/LIFAP1.jpg)
 
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/Interpolation
+```
+
 # GrAPiC 
 
 ## Starting
